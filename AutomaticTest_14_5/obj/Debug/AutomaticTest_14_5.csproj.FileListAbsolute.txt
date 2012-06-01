@@ -18,3 +18,23 @@ D:\congviec_binhminh\AutomaticTest_14_5\AutomaticTest_14_5\bin\Debug\ThoughtWork
 D:\congviec_binhminh\AutomaticTest_14_5\AutomaticTest_14_5\bin\Debug\ThoughtWorks.Selenium.Core.xml
 D:\congviec_binhminh\AutomaticTest_14_5\AutomaticTest_14_5\obj\Debug\AutomaticTest_14_5.exe
 D:\congviec_binhminh\AutomaticTest_14_5\AutomaticTest_14_5\obj\Debug\AutomaticTest_14_5.pdb
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\obj\Debug\AutomaticTest_14_5.exe
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\obj\Debug\AutomaticTest_14_5.pdb
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\AutomaticTest_14_5.exe
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\AutomaticTest_14_5.pdb
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\Castle.Core.dll
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\Ionic.Zip.dll
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\Newtonsoft.Json.dll
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\WebDriver.dll
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\WebDriver.Support.dll
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\WebDriver.Support.pdb
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\WebDriver.Support.xml
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\WebDriver.pdb
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\WebDriver.xml
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\My Repository\AutomaticTest\AutomaticTest_14_5\obj\Debug\ResolveAssemblyReference.cache
