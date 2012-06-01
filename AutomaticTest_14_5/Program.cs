@@ -17,7 +17,8 @@ namespace AutomaticTest_14_5
     {
         static void Main(string[] args)
         {
-            
+            //new source update : 20120601
+
             IWebDriver driver = new FirefoxDriver();      
             //kiem tra facebook                      
 
