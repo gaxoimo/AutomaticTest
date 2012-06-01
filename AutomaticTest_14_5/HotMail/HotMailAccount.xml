@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding = "UTF-8"?>
+<accounts>
+  <!-- 
+  //tao thanh cong
+  <account
+  windowslive="gachonchipchipchip"
+  pass="minhbinhxuan"
+  repass="minhbinhxuan"
+  mobilephone="VN"
+  atteremail="memechuachua@gmail.com"
+  lastname="Trai"
+  firstname="Ca Chua" 
+  country="VN"
+  zipcode="084"  
+  gender ="female"
+  birthday="30"
+  birthmonth="12"
+  birthyear="1986">
+  </account>
+  //tao thanh cong
+  <account
+  windowslive="chuotconlilac"
+  pass="minhbinhxuan"
+  repass="minhbinhxuan"
+  mobilephone="VN"
+  atteremail="memechuachua@gmail.com"
+  lastname="Trai"
+  firstname="Me Rung"
+  country="VN"
+  zipcode="084"
+  gender ="male"
+  birthday="25"
+  birthmonth="10"
+  birthyear="1990">
+  </account>
+  -->
+  <account
+  windowslive="meconmeomeo"
+  pass="minhbinhxuan"
+  repass="minh123456789"
+  repasstrue ="minhbinhxuan"
+  mobilephone="VN"
+  atteremail="memechuachua@gmail.com"
+  lastname="Trai"
+  firstname="Dao Tien"
+  country="VN"
+  zipcode="084"
+  gender ="female"
+  birthday="26"
+  birthmonth="11"
+  birthyear="1985">
+  </account>
+
+  <account
+  windowslive="khiconecec"
+  pass="minhbinhxuan"
+  mobilephone="VN"
+  atteremail="memechuachua@gmail.com"
+  lastname="Trai"
+  firstname="Quit Chua"
+  country="VN"
+  zipcode="084"
+  gender ="male"
+  birthday="16"
+  birthmonth="12"
+  birthyear="1984">
+  </account>
+
+  <account
+  windowslive="ambinhcatron"
+  pass="minhbinhxuan"
+  mobilephone="VN"
+  atteremail="memechuachua@gmail.com"
+  lastname="Trai"
+  firstname="Dua Muoi"
+  country="VN"
+  zipcode="084"
+  gender ="male"
+  birthday="22"
+  birthmonth="11"
+  birthyear="1980">
+  </account>
+  
+</accounts>

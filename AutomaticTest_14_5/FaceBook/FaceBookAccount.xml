@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding = "UTF-8"?>
+<accounts>
+
+  <account
+  firstname="Ca Bap"
+  lastname="Trai"
+  emaillogin ="gachonchipchipchip@hotmail.com"
+  emailconfirm ="gachonchipchipchip@hotmail.com"
+  pass ="820146minhbinh"
+  gender="nữ"
+  birthday ="1"
+  birthmonth="6"
+  birthyear="1980">    
+  </account>
+
+  <account
+  firstname="Ot Boom"
+  lastname="Trai"
+  emaillogin ="chuotconlilac@hotmail.com"
+  emailconfirm ="chuotconlilac@hotmail.com"
+  pass ="820146xuanxuan"
+  gender="nam"
+  birthday ="5"
+  birthmonth="10"
+  birthyear="1989">
+  </account> 
+   
+</accounts>
